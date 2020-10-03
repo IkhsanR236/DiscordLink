@@ -1,0 +1,7 @@
+main: me.IcanR.Discord.Main
+name: DiscordLucky
+version: 0.0.1
+author: IcanR
+
+commands:
+  Discord:
